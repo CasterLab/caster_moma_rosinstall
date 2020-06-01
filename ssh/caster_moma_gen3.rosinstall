@@ -1,0 +1,72 @@
+- git:
+    local-name: aruco_ros
+    uri: git@github.com:pal-robotics/aruco_ros.git
+    version: kinetic-devel
+- git:
+    local-name: dauxi_ks106
+    uri: git@github.com:I-Quotient-Robotics/dauxi_ks106.git
+    version: master
+- git:
+    local-name: hongfu_bms
+    uri: git@github.com:I-Quotient-Robotics/hongfu_bms.git
+    version: master
+- git:
+    local-name: jy901_driver
+    uri: git@github.com:I-Quotient-Robotics/jy901_driver.git
+    version: master
+- git:
+    local-name: caster_app
+    uri: git@github.com:CasterLab/caster_app.git
+    version: master
+- git:
+    local-name: caster_msgs
+    uri: git@github.com:CasterLab/caster_msgs.git
+    version: master
+- git:
+    local-name: caster_robot
+    uri: git@github.com:CasterLab/caster_robot.git
+    version: master
+- git:
+    local-name: caster_simulator
+    uri: git@github.com:CasterLab/caster_simulator.git
+    version: master
+- git:
+    local-name: caster_desktop
+    uri: git@github.com:CasterLab/caster_desktop.git
+    version: master
+- git:
+    local-name: caster_description
+    uri: git@github.com:CasterLab/caster_description.git
+    version: master
+- git:
+    local-name: iai_kinect2
+    uri: git@github.com:code-iai/iai_kinect2.git
+    version: master
+- git:
+    local-name: iqr_pan_tilt
+    uri: git@github.com:I-Quotient-Robotics/iqr_pan_tilt.git
+    version: dev
+- git:
+    local-name: ros_kortex
+    uri: git@github.com:Kinovarobotics/ros_kortex.git
+    version: kinetic-devel
+- git:
+    local-name: ros_kortex_vision
+    uri: git@github.com:Kinovarobotics/ros_kortex_vision.git
+    version: master
+- git:
+    local-name: caster_moma_robot
+    uri: git@github.com:CasterLab/caster_moma_robot.git
+    version: master
+- git:
+    local-name: caster_moma_description
+    uri: git@github.com:CasterLab/caster_moma_description.git
+    version: master
+- git:
+    local-name: caster_moma_viz
+    uri: git@github.com:CasterLab/caster_moma_viz.git
+    version: master
+- git:
+    local-name: caster_moma_app
+    uri: git@github.com:CasterLab/caster_moma_app.git
+    version: master
